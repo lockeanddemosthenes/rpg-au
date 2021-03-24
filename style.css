@@ -4,16 +4,17 @@ body {
   background-color: #99664e;
 }
 
-h1 {
-  color: navy;
-  margin-left: 20px;
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
 }
 
-img {
+.selection img {
     filter: grayscale(100%);
     width: 300px;
 }
 
-img:hover {
+.selection img:hover {
     filter: grayscale(0%);
 }
