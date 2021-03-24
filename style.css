@@ -18,3 +18,8 @@ body {
 .selection img:hover {
     filter: grayscale(0%);
 }
+
+.stats img {
+    position: sticky;
+    top: 0;
+}
