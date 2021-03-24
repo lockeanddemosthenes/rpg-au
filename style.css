@@ -1,0 +1,19 @@
+body {
+  background-image: url("https://www.transparenttextures.com/patterns/wood-pattern.png");
+  background-repeat: repeat;
+  background-color: #99664e;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+img {
+    filter: grayscale(100%);
+    width: 300px;
+}
+
+img:hover {
+    filter: grayscale(0%);
+}
