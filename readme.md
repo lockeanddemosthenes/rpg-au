@@ -2,6 +2,8 @@ This project primarily uses HTML/CSS and JQuery to display different characters'
 
 Images used are all created by Picrew user G0966 as hosted on Picrew (links below). As such, it is up to their discretion if I should remove the images.
 
+<b>Hosted Link:</b> https://lockeanddemosthenes.github.io/rpg-au/
+
 <b>Stats Picrew ("RPG: Status Generator"):</b> https://picrew.me/image_maker/693880
 
 <b>RPG Picrew ("RPG: Classic Mode"):</b> https://picrew.me/image_maker/636737
